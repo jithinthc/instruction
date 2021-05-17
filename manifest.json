@@ -1,6 +1,6 @@
 {
-  "name":"Instructions to HQ",
-  "short_name":"Instructions",
+  "name":"nu:move Group Instructions to HQ",
+  "short_name":"nu:move Instructions",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#ffffff",
